@@ -1,0 +1,11 @@
+
+Carious links and Referencea used
+
+
+https://ai.google.dev/gemini-api/docs/prompting-strategies#define-the-format-of-the-response
+
+
+https://ai.google.dev/gemini-api/docs/model-tuning/?utm_source=prompt_design&utm_medium=email&utm_campaign=new_user_journey&utm_term=tuning&utm_content=teaser
+
+https://ai.google.dev/gemini-api/docs/pricing?utm_source=prompt_design&utm_medium=email&utm_campaign=new_user_journey&utm_term=billing&utm_content=teaser
+
